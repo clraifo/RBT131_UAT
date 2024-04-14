@@ -1,1 +1,4 @@
-# RBT131_UAT
+![](https://github.com/clraifo/RBT131_UAT/blob/main/4%20bit%20binary%20adder%20Logisim.gif)
+
+
+A 4-bit binary adder implemented in Logisim serves as a fundamental component in the creation of a simple microprocessor using digital logic design. By leveraging Logisim's graphical interface, one can design a circuit that adds two 4-bit numbers and outputs a sum and carry bit, which are essential for arithmetic operations in a microprocessor. This setup utilizes basic logic gates (AND, OR, XOR) arranged in a structured manner to perform binary addition. Such an adder is a crucial step towards developing more complex operations within a microprocessor, enabling it to execute various computational tasks effectively. This project not only demonstrates basic digital logic but also serves as an educational tool for understanding how microprocessors handle arithmetic processes at a fundamental level.
